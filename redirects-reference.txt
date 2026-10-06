@@ -1,0 +1,15 @@
+# 301 redirects for URLs that existed on the previous version of this site.
+# Add these to your hosting's redirect rules (.htaccess shown; adjust for your host).
+# Verify against your host's real 404/analytics log before relying on this list.
+
+Redirect 301 /locations/plumber-alberton.html /location-alberton.html
+Redirect 301 /locations/plumber-bedfordview.html /location-bedfordview.html
+Redirect 301 /locations/plumber-benoni.html /location-benoni.html
+Redirect 301 /locations/plumber-boksburg.html /location-boksburg.html
+Redirect 301 /locations/plumber-bryanston.html /location-bryanston.html
+Redirect 301 /locations/plumber-centurion.html /location-centurion.html
+Redirect 301 /locations/plumber-edenvale.html /location-edenvale.html
+Redirect 301 /locations/plumber-fourways.html /location-fourways.html
+Redirect 301 /locations/plumber-midrand.html /location-midrand.html
+Redirect 301 /locations/plumber-cape-town.html /areas.html
+# If the old site also had /locations/plumber-johannesburg.html, redirect it to /location-johannesburg.html
